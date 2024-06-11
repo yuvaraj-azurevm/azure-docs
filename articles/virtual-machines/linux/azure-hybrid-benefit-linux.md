@@ -53,7 +53,7 @@ To enable Azure Hybrid Benefit when you create a virtual machine, use the follow
 1. Go to the [Azure portal](https://portal.azure.com/).
 1. Go to **Create a virtual machine**.
 
-   ![Screenshot of the portal page for creating a virtual machine.](./media/azure-hybrid-benefit/create-vm-ahb.png)
+   ![Screenshot of the portal page for creating a virtual machine.](./media/)
 1. In the **Licensing** section, select the checkbox that asks if you want to use an existing RHEL subscription and the checkbox to confirm that your subscription is eligible.
 
    ![Screenshot of the Azure portal that shows checkboxes selected for licensing.](./media/azure-hybrid-benefit/create-vm-ahb-checkbox.png)
